@@ -252,3 +252,6 @@ org\.chromium\.arc\..*
 com\.qualcomm\.wfd
 com\.qualcomm\.wfd\..*
 
+###################################################
+# LineageOS
+vendor.lineage.touch.*
